@@ -2,8 +2,12 @@
 
 ## Deskripsi Singkat
 
-Proyek ini bertujuan untuk [tujuan utama proyek]. Dengan fitur-fitur seperti [fitur 1], [fitur 2], dan [fitur 3], proyek ini membantu [manfaat utama dari proyek].
+Proyek ini bertujuan untuk memfasilitasi pembuatan server sederhana menggunakan Node.js. Fitur-fitur utama termasuk:
 
+- **Pembuatan Server**: Dengan kode `hello-world.js` dan `testCodeRunner.js`, proyek ini memungkinkan untuk membuat server sederhana yang merespons dengan pesan "hello world".
+- **Penggunaan Node.js**: Menggunakan kode `hello.js` untuk menampilkan pesan "welcome to node.js !" yang menunjukkan cara menggunakan Node.js untuk log pesan.
+
+Dengan fokus pada kemudahan pembuatan server dan penggunaan dasar Node.js, proyek ini ditujukan untuk memperkenalkan konsep dasar dalam pengembangan web dengan Node.js.
 ## Cara Memulai
 
 ### Prasyarat
