@@ -1,4 +1,4 @@
-# Nama Proyek Anda
+# Test-Site
 
 ## Deskripsi Singkat
 
@@ -19,7 +19,7 @@ Dengan fokus pada kemudahan pembuatan server dan penggunaan dasar Node.js, proye
 
 1. **Clone repositori:**
     ```bash
-    git clone https://github.com/username-anda/repo-anda.git
+    git clone https://github.com/fathur021/PBJ1.git
     ```
 
 2. **Instal dependensi:**
@@ -39,28 +39,22 @@ Dengan fokus pada kemudahan pembuatan server dan penggunaan dasar Node.js, proye
 
 ## Penggunaan
 
-Gunakan proyek ini dengan langkah-langkah berikut:
+Untuk menggunakan proyek ini, ikuti langkah-langkah di bawah ini:
 
-1. Buka aplikasi di browser.
-2. Lakukan [langkah-langkah tertentu].
-3. Lihat [hasil yang diharapkan].
+1. **Menjalankan Server**:
+    - Buka terminal atau command prompt.
+    - Jalankan server dengan menjalankan perintah `node hello-world.js` atau `node testsite/testCodeRunner.js`. Ini akan memulai server lokal pada `http://localhost:3000/`.
 
-## Berkontribusi
+2. **Menggunakan Node.js**:
+    - Buka terminal atau command prompt.
+    - Jalankan perintah `node testsite/hello.js`. Ini akan menampilkan pesan "welcome to node.js !" di terminal.
 
-Jika Anda ingin berkontribusi, silakan buat pull request. Ikuti langkah-langkah:
+3. **Akses Server**:
+    - Buka browser dan kunjungi `http://localhost:3000/`. Anda akan melihat pesan "hello world" sebagai respons dari server yang telah Anda jalankan sebelumnya.
 
-1. Fork repositori ini.
-2. Buat branch baru (`git checkout -b fitur/baru`).
-3. Commit perubahan (`git commit -am 'Menambah fitur baru'`).
-4. Push ke branch (`git push origin fitur/baru`).
-5. Buat pull request.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [jenis lisensi]. Lihat file `LICENSE` untuk detail lebih lanjut.
 
 ## Kontak
 
-- Email: contoh@email.com
-- Twitter: [@contohtwitter](https://twitter.com/contohtwitter)
-- Situs web: [www.contohweb.com](https://www.contohweb.com)
+- Email: fathur00013@email.com
+
